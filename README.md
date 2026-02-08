@@ -30,3 +30,59 @@ Current Status: Project initialization
 
 
 
+
+
+---
+
+
+
+\## Reliability Settings
+
+\- Task runs whether user is logged in or not
+
+\- Runs with highest privileges
+
+\- Restarts automatically on failure
+
+\- Runs immediately if a scheduled execution is missed
+
+
+
+---
+
+
+
+\## Validation Checks
+
+\- CSV file timestamp updated
+
+\- MySQL table updated with new trade dates
+
+\- Log file records successful execution
+
+
+
+---
+
+
+
+\## Outcome
+
+The automation demonstrates production readiness and ensures
+
+that dashboards remain up-to-date without manual intervention.
+
+
+
+\## Automation \& Refresh Pipeline
+
+\- Weekly automated data refresh using Windows Task Scheduler
+
+\- Python notebooks executed via nbconvert
+
+\- MySQL and CSV datasets updated automatically
+
+\- Power BI dashboards reflect refreshed data without manual steps
+
+
+

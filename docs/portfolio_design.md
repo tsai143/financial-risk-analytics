@@ -60,7 +60,7 @@ The portfolio is designed to achieve sector diversification in order to:
 
 \- Purpose: Used as a benchmark to compare portfolio performance
 
-&nbsp; and market-level volatility.
+  and market-level volatility.
 
 
 
@@ -71,6 +71,4 @@ The portfolio is designed to achieve sector diversification in order to:
 \- Measurement of correlation-driven risk
 
 \- Simulation of future portfolio value using Monte Carlo methods
-
-
 
